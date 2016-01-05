@@ -1,0 +1,28 @@
+name: JulieBelle
+favicon: null
+layout_spectrum: 0.369630164001137
+typography_spectrum: 0.3567001987248659
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8894422908779234
+  lightness: 0.741810335079208
+  saturation: 0.2695916972588748
+  rhythmicContrast: 0.1878479178994894
+purpose: []
